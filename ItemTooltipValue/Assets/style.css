@@ -1,0 +1,40 @@
+﻿#Inventory_Info.inventory-info-desc #inventory_sellvalue_box {
+    top: 183px;
+}
+#Inventory_Info.inventory-info-name #inventory_sellvalue_box {
+    top: 50px;
+}
+#inventory_sellvalue_box {
+    position: absolute;
+    left: 0;
+    display: block;
+    height: 53px;
+    width: 100%;
+}
+#inventory_sellvalue_bg {
+    width: 100%;
+    height: 100%;
+    background: url(../image/StaxelUIHintBox.png) 0 2px;
+    background-size: cover;
+    transform: rotate(180deg);
+}
+#Petal_ValueDisplay {
+    position: absolute;
+    left: 38px;
+    top: 2px;
+    line-height: 30px;
+    text-align: left;
+    color: #7b4c31;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+#Inventory_Info #Petal_Icon {
+    position: absolute;
+    background-image: url(../image/Catalogue/PetalSymbol.png);
+    left: 18px;
+    width: 20px;
+    height: 23px;
+    top: 6px;
+    background-size: contain;
+}

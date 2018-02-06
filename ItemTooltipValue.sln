@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvValueTooltip", "InvValueTooltip\InvValueTooltip.csproj", "{8C9F210F-8A0C-49A2-9EE8-F31CA76B481F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemTooltipValue", "ItemTooltipValue\ItemTooltipValue.csproj", "{8C9F210F-8A0C-49A2-9EE8-F31CA76B481F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
