@@ -16,7 +16,7 @@ namespace ItemTooltipValue
         /// <summary>
         /// Load assets
         /// </summary>
-        public override void GameContextInitializeInit()
+        protected override void GameContextInitializeInitOverride()
         {
             this.DomAsset = this.AssetLoader.ReadFileContent("Assets/index.min.html");
             this.ScriptAsset = this.AssetLoader.ReadFileContent("Assets/main.min.js");
@@ -29,7 +29,7 @@ namespace ItemTooltipValue
         /// webpage is not ready yet, we could patch a hook to this to have a proper method hook to inject
         /// assets, but this also works for now
         /// </summary>
-        public override void UniverseUpdateAfter()
+        protected override void UniverseUpdateAfterOverride()
         {
             this.InjectAssets();
         }
