@@ -62,7 +62,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Modhook.cs" />
+    <Compile Include="TooltipValueManager.cs" />
     <Compile Include="Patches\UpdateInventoryInfoPatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
