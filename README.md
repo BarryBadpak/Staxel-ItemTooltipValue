@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-	<img src="ItemtooltipValue/preview.png"/>
+	<img src="ItemTooltipValue/preview.png"/>
 </p>
 
 This mod is derived from Sunbeam and adds the hovered item's value in the description
