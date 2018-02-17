@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-	<img src="ClassicItemWheelMod/preview.png"/>
+	<img src="ItemtooltipValue/preview.png"/>
 </p>
 
 This mod is derived from Sunbeam and adds the hovered item's value in the description
