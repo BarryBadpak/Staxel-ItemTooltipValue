@@ -3,5 +3,9 @@
 	<a href="https://github.com/stefanhaan/Staxel-Sunbeam">Sunbeam source</a>
 </p>
 
+<p align="center">
+	<img src="ClassicItemWheelMod/preview.png"/>
+</p>
+
 This mod is derived from Sunbeam and adds the hovered item's value in the description
 tooltip on the inventory screen.
